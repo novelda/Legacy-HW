@@ -1,0 +1,9 @@
+---
+title: Documentation of test points
+---
+# Test points - general information
+
+This PCB have implemented no dedicated test points, but the pads on the bottom layer can be used as test points for
+MDA (Manufacturing Defect Analyser).
+
+

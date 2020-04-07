@@ -1,0 +1,11 @@
+Net         Name        X Coord     Y Coord     Side        Hole Size   Type        
+GND         P5-5        472.441mil    78.74mil  Bottom            0mil  Surface mount
+QSPI_NSS/SPI_NSSP5-4        393.701mil    78.74mil  Bottom            0mil  Surface mount
+QSPI_IO2    P5-3        314.961mil    78.74mil  Bottom            0mil  Surface mount
+QSPI_IO0/SPI_MOSIP5-2         236.22mil    78.74mil  Bottom            0mil  Surface mount
+X4_IO2      P5-1         157.48mil    78.74mil  Bottom            0mil  Surface mount
+X4_ENABLE   P4-5        472.441mil   157.48mil  Bottom            0mil  Surface mount
+QSPI_IO3    P4-4        393.701mil   157.48mil  Bottom            0mil  Surface mount
+QSPI_IO1/SPI_MISOP4-3        314.961mil   157.48mil  Bottom            0mil  Surface mount
+QSPI_SCLK/SPI_SCLKP4-2         236.22mil   157.48mil  Bottom            0mil  Surface mount
+X4_IO1      P4-1         157.48mil   157.48mil  Bottom            0mil  Surface mount

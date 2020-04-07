@@ -1,0 +1,16 @@
+# Document description
+
+This document decribes the manufacturing specifications and documentation
+of the current PCB project.
+
+## Contents of this document
+
+* PCB Specification
+* Stackup definition
+* Drill drawing
+
+
+
+
+
+

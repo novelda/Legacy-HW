@@ -1,0 +1,25 @@
+Altium Designer Pick and Place Locations
+C:\Users\carli\_work_\pcb\X4SIP02\Project_Outputs\PCBA_Doc_280022-004\Pick_Place-280022-004.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       19.03.18
+Time:       14:43
+Revision:   2430
+Variant:    Populated_Components
+Units used: mil
+
+Designator Comment      Layer    Footprint             Center-X(mil) Center-Y(mil) Rotation Description                              
+S1         "Shield box" TopLayer 200284-003            314.961       314.961       0        "Shieldbox 14.2 x 12.2 x 3mm"            
+U100       "XeThru X4"  TopLayer 200106-002            314.962       299.134       0        "XeThru X4"                              
+R101       100k         TopLayer 0402-RESISTOR         200.787       149.606       270      "RESISTOR, 100k, 0402, 1%, 63mW"         
+C105       12p          TopLayer 0402-CAPACITOR-NONPOL 342.520       149.606       90       "CAPACITOR, 12p, 0402, 5%, 50V, NP0"     
+C106       12p          TopLayer 0402-CAPACITOR-NONPOL 533.465       171.260       270      "CAPACITOR, 12p, 0402, 5%, 50V, NP0"     
+C100       4u7          TopLayer 0603-CAPACITOR-NONPOL 314.863       535.354       180      "CAPACITOR, 4u7, 0603, 10%, 10V, X5R"    
+C101       100n         TopLayer 0402-CAPACITOR-NONPOL 275.592       476.299       180      "CAPACITOR, 100n, 0402, 10%, 10V, X5R"   
+C102       10n          TopLayer 0402-CAPACITOR-NONPOL 354.233       476.299       360      "CAPACITOR, 10n, 0402, 10%, 25V, X7R"    
+C103       1n           TopLayer 0402-CAPACITOR-NONPOL 275.493       417.244       180      "CAPACITOR, 1n, 0402, 10%, 25V, X7R"     
+C104       100p         TopLayer 0402-CAPACITOR-NONPOL 354.233       417.244       360      "CAPACITOR, 100p, 0402, 20%, 50V, X7R"   
+R100       10k          TopLayer 0402-RESISTOR         275.591       149.606       270      "RESISTOR, 10k, 0402, 1%, 63mW"          
+Y100       27MHz        TopLayer 200281                436.911       149.528       360      "LFXTAL072115, CRYSTAL 27MHZ, 10PF, SMD" 

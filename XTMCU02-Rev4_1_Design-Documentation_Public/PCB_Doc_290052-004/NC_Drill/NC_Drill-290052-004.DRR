@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: XTMCU02.PcbDoc   21.03.2018  15:09:57
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : NC_Drill-290052-004-RoundHoles.TXT
+ASCII SlotHoles File : NC_Drill-290052-004-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.2mm)                                              Round             146       PTH        0.00inch (0.00mm)
+T2      12mil (0.3mm)                                             Round             136       PTH        0.00inch (0.00mm)
+T3      24mil (0.6mm)                                             Round             16        PTH        0.00inch (0.00mm)
+T4      26mil (0.65mm)                                            Slot              2         PTH        0.00inch (0.00mm)
+T5      29mil (0.74mm)                                            Round             10        PTH        0.00inch (0.00mm)
+T6      32mil (0.825mm)                                           Slot              2         PTH        0.00inch (0.00mm)
+T7      34mil (0.86mm)                                            Round             16        PTH        0.00inch (0.00mm)
+T8      98mil (2.5mm)                                             Round             4         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              332
+
+Total Processing Time (hh:mm:ss) : 00:00:00

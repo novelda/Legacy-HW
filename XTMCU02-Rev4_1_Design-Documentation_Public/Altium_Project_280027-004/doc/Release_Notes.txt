@@ -1,0 +1,28 @@
+# Release Notes
+
+## Revision 4 - 2017-06-07
+
+* Add footprints for EMI filtering/USB-shielding components.
+* Added more decoupling capacitors on all MCU power domains.
+* Added filter on VDDPLLUSB.
+* Added more decoupling close to SDRAM.
+* Replace 12MHz crystal with 12MHz oscillator.
+* Added MDA-testpoints.
+* Increased thickness of inner copper layers.
+
+## Revision 3 - 2017-02-21
+
+* Replace micro controller with Atmel SAMS70, 2MB flash memory.
+* Bug fix on USB TVS-diode. Fixed wrong connection on Vcc pin.
+* Added test points.
+
+## Revision 2 - 2016-08-17
+
+* Bug fix on SDRAM, SWDBG and serial port pins.
+
+## Revision 1  - 2016-06-24
+
+* Initial prototype.
+
+
+

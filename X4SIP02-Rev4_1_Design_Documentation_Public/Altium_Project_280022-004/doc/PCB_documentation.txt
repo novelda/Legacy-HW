@@ -1,0 +1,16 @@
+# Document description
+
+This document decribes the manufacturing specifications and documentation
+of the current PCB project.
+
+## Contents of this document
+
+* Notes to PCB manufacturer
+* PCB Specification
+* Stackup definition
+
+# Notes to PCB manufacturer
+
+There is no room for fiducial marks on this tiny PCB. Please add fiducial
+marks on the panel during panelizing process.
+

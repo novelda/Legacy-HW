@@ -1,0 +1,11 @@
+DRC Rules Export File for PCB: C:\Users\carli\_work_\pcb\XTMCU02\XTMCU02.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_Wide_Soldermask|Scope=Board|Minimum=7.87
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=3.94
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=3.94
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=1.97
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance_ViaHole|Scope=Board|Minimum=3.94
+RuleKind=Clearance|RuleName=Clearance_Blind|Scope=Board|Minimum=3.94
+RuleKind=Clearance|RuleName=Clearance_Poly|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName=Clearance_Holes|Scope=Board|Minimum=11.81

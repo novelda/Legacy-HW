@@ -1,0 +1,6 @@
+Net         Name        X Coord     Y Coord     Side        Hole Size   Type        
+VDD3V       TP103-1     1096.457mil  775.591mil  Bottom            0mil  Surface mount
+NetC102_1   TP102-1     1007.874mil  405.512mil  Bottom            0mil  Surface mount
+NetL100_1   TP101-1     1312.992mil  785.433mil  Bottom            0mil  Surface mount
+VDD_IN_2    TP100-1     1177.165mil  346.457mil  Bottom            0mil  Surface mount
+NetC101_2   TP104-1     1007.874mil  775.591mil  Bottom            0mil  Surface mount

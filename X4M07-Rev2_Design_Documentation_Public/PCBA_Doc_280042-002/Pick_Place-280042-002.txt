@@ -1,0 +1,16 @@
+Altium Designer Pick and Place Locations
+C:\Users\carli\_work_\pcb\X4M07\Project_Outputs\PCBA_Doc_280042-002\Pick_Place-280042-002.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       01.02.18
+Time:       15:02
+Revision:   2705
+Variant:    Populated_Components
+Units used: mil
+
+Designator Comment     Layer    Footprint     Ref-X(mil) Ref-Y(mil) Pad-X(mil) Pad-Y(mil) Center-X(mil) Center-Y(mil) Rotation Description                                  
+M1         280022-004  TopLayer 280022-004    1145.669   598.425    1303.150   834.646    1145.669      598.425       0        "X4SIP02 PCBA Rev4"                          
+P1         M50-3600842 TopLayer 200280        1145.669   145.669    1320.669   224.409    1145.669      145.669       180      "CONNECTOR, HEADER, 1.27MM, SMT, 8WAY, 2ROW" 
+R100       0R          TopLayer 0402-RESISTOR 1306.102   971.457    1286.417   971.457    1306.102      971.457       360      "RESISTOR, 0R, 0402, 5%, 63mW"               

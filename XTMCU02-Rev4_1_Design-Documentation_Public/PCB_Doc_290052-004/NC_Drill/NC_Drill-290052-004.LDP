@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\carli\_work_\pcb\XTMCU02\XTMCU02.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=nc_drill-290052-004-roundholes.txt|DrillLayers=gtl,gp1,gp2,g1,g2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=nc_drill-290052-004-slotholes.txt|DrillLayers=gtl,gp1,gp2,g1,g2,gbl

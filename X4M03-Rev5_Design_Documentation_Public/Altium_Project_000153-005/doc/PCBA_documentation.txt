@@ -1,0 +1,45 @@
+# Document description
+
+This document decribes the assembly specifications for the current PCBA.
+
+## Contents of this document
+
+* Notes to Manufacturer
+* BOM-changes
+* Schematic prints
+* Assembly drawing
+
+# Notes to Manufacturer
+
+This assembly consists of 2 PCBAs assembled together using screws, spacers and
+nuts.
+
+See Assembly drawing for details.
+
+# BOM-changes
+
+## Revision 5
+
+* Changed A1 to X4M05 PCBA Rev3.
+* Changed A2 to XTMCU02 PCBA Rev4.
+
+## Revision 4
+
+* Changed A2 to XTMCU02 PCBA Rev3.
+
+## Revision 3
+
+* Added plastic hex nuts H1 and H2.
+* Added plastic screws H3 and H4.
+* Added plastic spacers H5 and H6.
+* Changed A1 to X4M05 PCBA Rev2.
+
+## Revision 2
+
+* Change A1 to X4A02-T1 PCBA Rev1.
+* Change A2 to XTMCU02 PCBA Rev2.
+
+## Revision 1
+
+Initial Prototype.
+

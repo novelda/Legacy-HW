@@ -1,0 +1,36 @@
+# Document description
+
+This document decribes the assembly specifications for the current PCBA.
+
+## Contents of this document
+
+* Notes to Manufacturer
+* BOM-changes
+* Schematic prints
+* Assembly Drawings
+* PCB Dimensions
+* Pad Description
+
+# Notes to Manufacturer
+
+None
+
+# BOM-changes
+
+## Revision 4
+
+* Change A1 to X4SIP02 PCB rev 4
+* Add S1: Shield box 200284-003
+* Change U100 to Xethru X4 revision 2
+
+## Revision 3
+
+* No BOM changes
+
+## Revision 2
+
+* Change A1 to X4SIP02 PCB rev 2
+
+## Revision 1
+
+* First revision

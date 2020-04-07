@@ -1,0 +1,49 @@
+# Document description
+
+This document decribes the assembly specifications for the current PCBA.
+
+## Contents of this document
+
+* Notes to Manufacturer
+* BOM-changes
+* Release Notes
+* Schematic prints
+* Assembly Drawings
+* PCB Dimensions
+* Testpoints placement
+
+# Notes to Manufacturer
+
+No notes.
+
+# BOM-changes since previous revision
+
+## Revision 4
+
+* Changed PCB component A1 to XTMCU02-Rev4
+* Added resistor R6 - 0R, 0603, 1%, 100mW
+* Added resistor R205 - 2R2, 0402, 1%, 63mW
+* Added inductor L200 - 10u, 0805, 20%, 60mA, 650mOhm, Manufacturer: TAIYO YUDEN, MPN: CK2125100M-T
+* Added capacitor C225 - 4u7, 0603, 10%, 10V, X5R
+* Added capacitors C226, C227, C228, C229, C230 and C231 - 100n, 0402, 10%, 10V, X5R
+* Added capacitor C232 - 2u2, 0402, 20%, 6V3, X5R
+* Added capacitors C233 and C234 - 1u, 0402, 10%, 10V, X5R
+* Removed crystal Y201
+* Removed capacitor C224
+* Changed capacitor C223 to 100n, 0402, 10%, 10V, X5R
+* Added oscillator U202 - 12MHZ CMOS MEMS OSCILLATOR, Manufacturer: Microchip Technology, MPN: DSC6003JI2A-012.0000
+
+## Revision 3
+
+* Changed MCU U200 to version with 2MB flash. MPN:ATSAMS70Q21A-CN
+* Changed PCB component A1 to XTMCU02-Rev3
+* Changed R304 designator to R204
+
+## Revision 2
+
+* Added R304. 100k, 0402, 1%, 63mW
+* Changed PCB component A1 to XTMCU02-Rev2
+
+## Revision 1
+
+* Initial prototype

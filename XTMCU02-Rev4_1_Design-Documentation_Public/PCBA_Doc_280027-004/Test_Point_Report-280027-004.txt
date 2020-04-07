@@ -1,0 +1,27 @@
+Net         Name        X Coord     Y Coord     Side        Hole Size   Type        
+USBD_N      TP8-1       728.346mil  905.512mil  Bottom            0mil  Surface mount
+USBD_P      TP9-1       728.346mil  984.252mil  Bottom            0mil  Surface mount
+SDCS#       TP205-1       39.37mil   236.22mil  Bottom            0mil  Surface mount
+LED_R       TP6-1       770.669mil  224.409mil  Bottom            0mil  Surface mount
+USBVBUS     TP4-1       793.307mil   703.74mil  Bottom            0mil  Surface mount
+GND         TP2-1        868.11mil  1017.716mil  Bottom            0mil  Surface mount
+VDD_EXT     TP1-1        44.291mil  125.984mil  Bottom            0mil  Surface mount
+LED_B       TP5-1       524.606mil  272.638mil  Bottom            0mil  Surface mount
+NetC103_2   TP105-1     486.221mil  1082.677mil  Bottom            0mil  Surface mount
+VBG         TP203-1     442.913mil  770.669mil  Bottom            0mil  Surface mount
+LED_G       TP7-1       632.874mil  275.591mil  Bottom            0mil  Surface mount
+VDD_USB     TP102-1     866.142mil  767.716mil  Bottom            0mil  Surface mount
+NetC100_2   TP103-1     487.205mil   967.52mil  Bottom            0mil  Surface mount
+ERASE       TP202-1     809.055mil  438.976mil  Bottom            0mil  Surface mount
+NetFB1_2    TP3-1       816.929mil  933.071mil  Bottom            0mil  Surface mount
+NetC101_1   TP100-1     388.779mil  1084.646mil  Bottom            0mil  Surface mount
+VDDUTMIC    TP201-1     541.339mil  770.669mil  Bottom            0mil  Surface mount
+VDDPLL      TP200-1     603.346mil  440.945mil  Bottom            0mil  Surface mount
+VDD3V       TP104-1     285.433mil  770.669mil  Bottom            0mil  Surface mount
+NetL100_1   TP101-1     536.417mil  876.968mil  Bottom            0mil  Surface mount
+VDDCORE     TP204-1     598.425mil  705.709mil  Bottom            0mil  Surface mount
+NetLED1_2   TP10-1      895.669mil   88.583mil  Bottom            0mil  Surface mount
+NetLED1_4   TP12-1      147.638mil  147.638mil  Bottom            0mil  Surface mount
+NetLED1_3   TP11-1      895.669mil  511.811mil  Bottom            0mil  Surface mount
+NetL200_1   TP206-1     866.142mil  649.606mil  Bottom            0mil  Surface mount
+NetC225_2   TP207-1     712.598mil  515.748mil  Bottom            0mil  Surface mount

@@ -1,0 +1,228 @@
+*************************************************************
+FileName = Gerber-290047-004.GBR
+AutoAperture = True
+*************************************************************
+Generating : Inner1
+      File : Gerber-290047-004.G1
+
+    Adding Layer      : Inner1
+
+    Adding Layer      : Project Info
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D29
+    D35
+    D36
+    D37
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : Gerber-290047-004.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Project Info
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+*************************************************************
+
+*************************************************************
+Generating : Inner2
+      File : Gerber-290047-004.G2
+
+    Adding Layer      : Inner2
+
+    Adding Layer      : Project Info
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D29
+    D34
+    D35
+    D36
+*************************************************************
+
+*************************************************************
+Generating : Inner4
+      File : Gerber-290047-004.G4
+
+    Adding Layer      : Inner4
+
+    Adding Layer      : Project Info
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D29
+    D36
+*************************************************************
+
+*************************************************************
+Generating : Inner3
+      File : Gerber-290047-004.G3
+
+    Adding Layer      : Inner3
+
+    Adding Layer      : Project Info
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D29
+    D34
+    D35
+    D36
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : Gerber-290047-004.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Project Info
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Gerber-290047-004.GTO
+
+    Adding Layer      : Top Overlay
+
+    Adding Layer      : Project Info
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Gerber-290047-004.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Project Info
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D31
+    D32
+    D34
+    D35
+    D36
+    D38
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Gerber-290047-004.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Project Info
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Gerber-290047-004.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Project Info
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D28
+    D39
+*************************************************************
+
+*************************************************************
+Generating : Board Outline
+      File : Gerber-290047-004.GM1
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Project Info
+
+
+Used DCodes :
+    D12
+    D33
+*************************************************************
+

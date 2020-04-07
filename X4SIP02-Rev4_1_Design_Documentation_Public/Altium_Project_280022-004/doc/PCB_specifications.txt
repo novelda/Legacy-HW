@@ -1,0 +1,68 @@
+PCB Specification
+=================
+
+<!--
+ In the table below, leave an emtpy line between each row in the table.
+ For more information about markdown syntax, see http://pandoc.org/README.html#pandocs-markdown
+
+ Columns: Category[1-28] Property[29-69] Value[70-84] Comments[85- ]
+-->
+-----------------------------------------------------------------------------------------------------------------------
+__Category__                __Property__                             __Value__      __Comments__
+--------------------------- ---------------------------------------- -------------- -----------------------------------
+__Mechanical Data__         Board width  mm                          16
+
+                            Board length mm                          16
+
+\
+
+__Material Data__           Final Cu thickness external layers um    40             min 33.4
+
+                            Final Cu thickness internal layers um    17             min 11.4
+
+\
+
+__Soldermask__              Solder resist top                        Yes
+
+                            Solder resist bottom                     Yes
+
+                            Solder resist color                      Blue
+
+\
+
+__Prints / masks__          Silkscreen top                           Yes
+
+                            Silkscreen bottom                        No
+
+                            Silkscreen color                         White
+
+                            Pb. free label                           Yes
+
+\
+
+__Finish__                  Hot Air Solder Level (HASL), Lead-free   No
+
+                            Electroless nickel immersion gold (ENIG) Yes
+
+\
+
+__Gerber / Drill format__   Unit                                     mil
+
+                            Format                                   2:4 (0.1mil)
+
+\
+
+__Clearance__               External layers um                       100
+
+                            Internal layers um                       100
+
+\
+
+__Tolerances__              PCB Dimensions / outline mm              +0.2 / -0.1
+
+\
+
+__Vias__                    Filled                                   No
+
+                            Capped                                   No
+------------------------------------------------------------------------------------------------------------------------

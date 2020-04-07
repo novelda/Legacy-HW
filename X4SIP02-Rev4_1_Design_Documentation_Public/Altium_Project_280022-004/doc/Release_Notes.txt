@@ -1,0 +1,24 @@
+# Release Notes
+
+## Revision 4 - 2017-06-02
+
+* Add shield box
+* Update BOM to use X4 revision 2
+
+## Revision 3  - 2016-09-26
+
+* Update schematic symbol for X4.
+* Change net names to match new names in X4 symbol.
+
+## Revision 2  - 2016-06-20
+
+Changes to Gerber files:
+
+ * Footprint for X4
+ * Issues with some vias
+
+## Revision 1  - 2016-05-27
+
+Prototype.
+
+
